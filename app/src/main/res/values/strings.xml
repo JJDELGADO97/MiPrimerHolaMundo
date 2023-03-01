@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Black Bull Temple</string>
+    <string name="horizontalscrollview">Horizontalscrollview</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="previous">previous</string>
+    <string name="producto">Producto</string>
+    <string name="scrollView">ScrollView</string>
+
+
+    <string name="saludo">Hello World!</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+
+
+</resources>

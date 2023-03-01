@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="miestilo">
+        <item name="fontFamily">@font/comforterbrush_regular</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/orange</item>
+        <item name="fontStyle">italic</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+</resources>

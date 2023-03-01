@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lista_categoria">
+        <item>Semillas</item>
+        <item>Sustrato</item>
+        <item>Flores</item>
+        <item>Alimentos</item>
+    </string-array>
+
+    <string-array name="lista_marca">
+        <item>BBT</item>
+        <item>TropicsGhost</item>
+        <item>HighHome</item>
+    </string-array>
+
+    <string-array name="lista_proveedores">
+        <item>EterB</item>
+        <item>Ghost1</item>
+        <item>Ghost2</item>
+    </string-array>
+
+    <string-array name="lista_nivelingles">
+        <item>Seleccione nivel de ingles...</item>
+        <item>Basico</item>
+        <item>Intermedio</item>
+        <item>Avanzado</item>
+        <item>Experto</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnu_horizontalscrollview"
+        android:icon="@mipmap/ic_shark2_round"
+        android:title="@string/horizontalscrollview"
+        app:showAsAction="always" />
+    <item android:title="@string/producto" android:icon="@drawable/ic_producto"
+          android:id="@+id/mnu_producto"/>
+    <item
+        android:id="@+id/mnu_scrollview"
+        android:title="@string/scrollView" />
+    <item
+        android:id="@+id/mnu_encuesta"
+        android:title="Encuesta" />
+</menu>
